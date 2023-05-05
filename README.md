@@ -2,8 +2,10 @@
 ### Comandos Git finalizando aula de git e github
 
 
-estou no novo ramo (branch)
+***estou no novo ramo (branch)
 
 alteração feita localmente
 
-alteração feita no github
+alteração feita no github 
+
+🙂
