@@ -1,15 +1,22 @@
 # aula_git
 ### Comandos Git finalizando aula de git e github
 
-![download](https://user-images.githubusercontent.com/132412439/236577384-e69084f8-1907-414b-bd21-63b6f42d2425.png)
+`Olá!! 🧡`
+
+![NUX_Octodex](https://user-images.githubusercontent.com/132412439/236586882-5a01a811-9257-45f5-a4ad-31aa76ae5514.gif)
 
 estou no novo ramo (branch)
 
 alteração feita localmente
 
 alteração feita no github
-alteração feita no github 
+
 
 
 
 ***Kamylla Morais Viana 🙂***
+
+
+
+
+
